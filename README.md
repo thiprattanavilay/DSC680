@@ -7,7 +7,7 @@ This portfolio is a part of the Masters of Data Science degree at [Bellevue Unin
 ## Project Intro/Objective
 The purpose of this portfolio is a collection of all the data science projects throughout my M.S. program in Data Science at Bellevue University. In this Data Science program, I have conduct several data science projects from origin to presentation. I have gather data, then prepare, clean, analyze, and present the analysis to an audience in a recorded video/presentation.
 
-#### -- My Data Science Project:
+### -- My Data Science Project:
 
 1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final_LACrimes_v2.ipynb)
 2. Covid 19 Data Visualisation
@@ -29,3 +29,9 @@ The purpose of this portfolio is a collection of all the data science projects t
 * [NASA Earth Data](https://earthdata.nasa.gov/)
 * [Federal Aviation Data](https://www.faa.gov/data_research/aviation_data_statistics/)
 * [Justice and Crime datasets](https://www.justice.gov/open/open-data)
+
+## Contact
+
+** My Contacts: [Thip Rattanavilay](mailto:trattanavilay@my365.bellevue.edu) - [Github Repo](https://github.com/thiprattanavilay?tab=repositories)**
+
+* Feel free to contact me with any questions or if you are interested in contributing!
