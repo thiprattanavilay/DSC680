@@ -7,7 +7,7 @@ This portfolio is a part of the Masters of Data Science degree at [Bellevue Unin
 ## Project Intro/Objective
 The purpose of this portfolio is a collection of all the data science projects throughout my M.S. program in Data Science at Bellevue University. In this Data Science program, I have conduct several data science projects from origin to presentation. I have gather data, then prepare, clean, analyze, and present the analysis to an audience in a recorded video/presentation.
 
-### -- My Data Science Project:
+### -- My Data Science Projects:
 
 1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final_LACrimes_v2.ipynb)
 2. Covid 19 Data Visualisation
