@@ -18,8 +18,7 @@ The purpose of this portfolio is a collection of all the data science projects t
 7. Blood Donation Prediction
 8. [Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02/Week1/)
 9. Air flight Safety 
-
-10.[Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
+10. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
 
 
 ### Resources 
