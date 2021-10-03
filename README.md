@@ -17,7 +17,7 @@ The purpose of this portfolio is a collection of all the data science projects t
 6. Titanic case study
 7. Blood Donation Prediction
 8. Air flight Safety 
-9. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf
+9. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
 10.[Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02/Week1/)
 
 
