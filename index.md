@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# DSC680
+# Thip Rattanavialy 
+# Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/thiprattanavilay/DSC680/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a part of the Masters of Data Science degree at [Bellevue Uninversity](https://www.bellevue.edu/degrees/master/data-science-ms/). You can also find my latest work on [my main GitHub repo](https://github.com/thiprattanavilay?tab=repositories).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Intro/Objective
+The purpose of this portfolio is a collection of all the data science projects throughout my M.S. program in Data Science at Bellevue University. In this Data Science program, I have conduct several data science projects from origin to presentation. I have gather data, then prepare, clean, analyze, and present the analysis to an audience in a recorded video/presentation.
 
-### Markdown
+### -- My Data Science Projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final_LACrimes_v2.ipynb)
+2. Covid 19 Data Visualisation
+3. Covid 19 Vaccination Visualisation
+4. Test Scores
+5. Infographic
+6. Titanic case study
+7. Blood Donation Prediction
+8. [Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02/Week1/)
+9. Air flight Safety 
+10. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Resources 
+* [Kaggle](https://www.kaggle.com/datasets)
+* [Tableau](https://www.tableau.com/learn/articles/free-public-data-sets)
+* [Government Open Data](https://www.data.gov/)
+* [Datahub](https://datahub.io/collections)
+* [University of California Irvine for ML](https://archive.ics.uci.edu/ml/datasets.php)
+* [NASA Earth Data](https://earthdata.nasa.gov/)
+* [Federal Aviation Data](https://www.faa.gov/data_research/aviation_data_statistics/)
+* [Justice and Crime datasets](https://www.justice.gov/open/open-data)
 
-- Bulleted
-- List
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* Random Forest
+* Linear Regression
+* KNN
+* CRISP Model
 
-1. Numbered
-2. List
+## Contact
 
-**Bold** and _Italic_ and `Code` text
+** My Contacts: [Thip Rattanavilay](mailto:trattanavilay@my365.bellevue.edu) - [Github Repo](https://github.com/thiprattanavilay?tab=repositories)**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thiprattanavilay/DSC680/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Feel free to contact me with any questions or if you are interested in contributing!
