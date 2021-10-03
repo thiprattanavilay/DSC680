@@ -11,14 +11,15 @@ The purpose of this portfolio is a collection of all the data science projects t
 
 1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final_LACrimes_v2.ipynb)
 2. Covid 19 Data Visualisation
-3. Favorite Foods
-4. Covid 19 Vaccination Visualisation
-5. Test Scores
-6. Infographic
-7. Titanic case study
-8. Blood Donation Prediction
-9. Air flight Safety 
-10. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
+3. Covid 19 Vaccination Visualisation
+4. Test Scores
+5. Infographic
+6. Titanic case study
+7. Blood Donation Prediction
+8. Air flight Safety 
+9. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
+10.[Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02)
+
 
 ### Resources 
 * [Kaggle](https://www.kaggle.com/datasets)
@@ -29,6 +30,16 @@ The purpose of this portfolio is a collection of all the data science projects t
 * [NASA Earth Data](https://earthdata.nasa.gov/)
 * [Federal Aviation Data](https://www.faa.gov/data_research/aviation_data_statistics/)
 * [Justice and Crime datasets](https://www.justice.gov/open/open-data)
+
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* Random Forest
+* Linear Regression
+* KNN
+* CRISP Model
 
 ## Contact
 
