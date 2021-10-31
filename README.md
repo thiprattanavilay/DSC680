@@ -2,7 +2,7 @@
 # Data Science Portfolio
 
 ## About Me
-Over 17 years of strong IT experience in field of Network and System Infrastructure including Cloud computing, 6 years in Data Analytics focused on processing and analyzing large amount of data using Hadoop (Mahout, Hive, PIG), Python, R, MS Excel, MS Access, MS SQL, SAS, Kafka, Zookeeper, Matlab. Passion in Machine Learning, Data/Text Mining, Statistical Analysis & Predictive Modeling. Efficient in: data acquisition, storage, analysis, integration, predictive modeling, logistic regression, decision trees, data mining methods, forecasting, factor analysis, cluster analysis, ANOVA and other advanced statistical techniques.
+I have over 17 years of IT experience in field of Network and System Infrastructure including Cloud computing, 6 years in Data Analytics focused on processing and analyzing large amount of data using Hadoop (Mahout, Hive, PIG), Python, R, MS Excel, MS Access, MS SQL, SAS, Kafka, Zookeeper, Matlab. Passion in Machine Learning, Data/Text Mining, Statistical Analysis & Predictive Modeling. Efficient in: data acquisition, storage, analysis, integration, predictive modeling, logistic regression, decision trees, data mining methods, forecasting, factor analysis, cluster analysis, ANOVA and other advanced statistical techniques.
 
 This portfolio provides my journey into Data Science. Data science is the process of using algorithms, methods and systems to extract knowledge and insights from structured and unstructured data. 
 
