@@ -13,7 +13,7 @@ The purpose of this portfolio is a collection of all the data science projects t
 
 ### -- My Data Science Projects:
 
-1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final_LACrimes_v2.ipynb)
+1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/tree/main/week_12/Completed_Final_Project)
 2. [Covid 19 Data Visualisation](https://github.com/thiprattanavilay/dsc540/tree/main/Week11&12/Project)
 3. [Hotel Cancellation Prediction](https://github.com/thiprattanavilay/dsc550/tree/main/WEEK11%2612)
 4. [Data Analysis Modeling](https://github.com/thiprattanavilay/dsc500/tree/main/week12)
